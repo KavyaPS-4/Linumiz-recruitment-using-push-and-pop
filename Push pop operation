@@ -1,6 +1,5 @@
-Implementation of `pushd` and `popd` functions in C for a Linux environment using command-line arguments:
+ 
 
-```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -52,7 +51,6 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
-```
 
-Compile this code using a C compiler (like `gcc`) 
-Then se `pushd` and `popd` commands with directory paths as arguments.
+
+ 
